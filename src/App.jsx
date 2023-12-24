@@ -1,5 +1,5 @@
-import TodoForm from './components/ToDoForm';
-import TodoItem from './components/ToDoItem';
+import TodoForm from './components/TodoForm';
+import TodoItem from './components/TodoItem';
 import { TodoProvider } from './contexts';
 import { useState, useEffect } from 'react';
 
